@@ -122,7 +122,6 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-## 📁 Project Resources
 
 ## 📁 Project Resources
 
