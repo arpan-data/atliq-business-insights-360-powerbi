@@ -131,6 +131,7 @@ Through this project, I strengthened my practical understanding of:
 * Sales Dashboard Screenshot
 * Marketing Dashboard Screenshot
 * Supply Chain Dashboard Screenshot
+* - 📑 [Download PowerPoint Presentation](./AtliQ_Business_Insights_360.pptx)
 
 ---
 
