@@ -124,14 +124,19 @@ Through this project, I strengthened my practical understanding of:
 
 ## 📁 Project Resources
 
-* Interactive Power BI Dashboard
-* Project Presentation (PDF)
-* Executive Dashboard Screenshot
-* Finance Dashboard Screenshot
-* Sales Dashboard Screenshot
-* Marketing Dashboard Screenshot
-* Supply Chain Dashboard Screenshot
-* - 📑 [Download PowerPoint Presentation](./AtliQ_Business_Insights_360.pptx)
+## 📁 Project Resources
+
+* 🔗 [Explore Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTY3NzY4NDItMmFhYi00MzZlLTkwNjYtMGNkOGY4ZjBkOTlhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+* 📄 [View Project Presentation (PDF)](./AtliQ_Business_Insights_360.pdf)
+* 📑 [Download PowerPoint Presentation (PPTX)](./AtliQ_Business_Insights_360.pptx)
+
+### Dashboard Screenshots
+
+* Executive Analytics
+* Finance Analytics
+* Sales Analytics
+* Marketing Analytics
+* Supply Chain Analytics
 
 ---
 
