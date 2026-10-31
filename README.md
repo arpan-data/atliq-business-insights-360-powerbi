@@ -79,4 +79,69 @@ Monitors forecast quality and operational risks.
 * Net Error
 * Absolute Error
 * Customer-level forecast performance
-* Product-level for
+* Product-level forecast performance
+* Excess Inventory and Out-of-Stock risk indicators
+
+![Supply Chain Analytics](./Supply_Chain_View.png.png)
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool               | Application                            |
+| ------------------ | -------------------------------------- |
+| Microsoft Power BI | Interactive dashboards and reporting   |
+| Power Query        | Data cleaning and transformation       |
+| DAX                | Calculated measures and business KPIs  |
+| Data Modelling     | Relationships and analytical structure |
+| Data Visualization | Business performance reporting         |
+
+---
+
+## 💡 Business Questions Addressed
+
+* How is the business performing financially?
+* Which customers and products contribute most to revenue?
+* Which markets and product segments perform better?
+* How does revenue translate into gross margin and net profit?
+* How accurate are demand forecasts?
+* Which customers or products show potential inventory risks?
+
+---
+
+## 📈 Key Learning Outcomes
+
+Through this project, I strengthened my practical understanding of:
+
+* Building interactive Power BI reports.
+* Transforming and preparing data using Power Query.
+* Developing business measures using DAX.
+* Creating data models and relationships.
+* Selecting KPIs based on business requirements.
+* Communicating analytical findings through dashboards.
+
+---
+
+## 📁 Project Resources
+
+* Interactive Power BI Dashboard
+* Project Presentation (PDF)
+* Executive Dashboard Screenshot
+* Finance Dashboard Screenshot
+* Sales Dashboard Screenshot
+* Marketing Dashboard Screenshot
+* Supply Chain Dashboard Screenshot
+
+---
+
+## 👨‍💻 Author
+
+**Arpan Das**
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
+* GitHub: [arpan-data](https://github.com/arpan-data)
+* LinkedIn: [Arpan Das](https://www.linkedin.com/in/arpan-das-785799379)
+
+---
+
+*This is a portfolio project developed for learning and demonstrating practical Business Intelligence and Data Analytics skills.*
